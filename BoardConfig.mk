@@ -176,3 +176,5 @@ TW_BACKUP_EXCLUSIONS := /data/fonts
 # TWRP Debug Flags
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
+
+m hak
